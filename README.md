@@ -2,7 +2,7 @@
 
 For the Intelligent Interfaces 2 (ICS3211) assignment, students were asked to create a prototype of an app that utilizes an intelligent interface. As part of the assessment, each team was also asked to record their planning and design phases on an online blog. Our team decided to create a VR Escape Room game using the Oculus Quest VR headset and Oculus touch controllers. The planning, design, implementation and evaluation process that was carried out when creating our game was recorded in the following <a href="https://valerijaholomjova1.wixsite.com/theescape" target="_blank">blog</a>.
 
-## Concept and Implementation
+## Implementation and Final Result
 The game was coded for the Android Platform using Unity 2018.4.10f1 and the Oculus Integration package. The package includes scripts, components and VR features to ease the Oculus app development process. Using the package, we have implemented two main gameplay mechanisms - UI interaction (selecting buttons) and object interaction (grabbing, throwing). We decided to implement the game using the Oculus Quest instead of the Oculus Rift as it allows the user to navigate through an open space without using a wire in a safe manner (notifies the user when they leave a safe boundary). The user will need a free space of 4x4 meters to play the prototype since the game mechanisms requires the user to walk around the room in order to interact with objects.
 
 <p align="center"><img src="https://github.com/valerija-h/ICS3211-Assignment/blob/master/Images/Environment.png" width="50%" /></p>
