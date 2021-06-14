@@ -1,4 +1,4 @@
-# The Escape - Creating a VR Escape Room game for the Oculus Quest (Deprecated)
+# The Escape - Creating a VR Escape Room game for the Oculus Quest
 
 For the Intelligent Interfaces 2 (ICS3211) assignment, students were asked to create a prototype of an app that utilizes an intelligent interface. As part of the assessment, each team was also asked to record their planning and design phases on an online blog. Our team decided to create a VR Escape Room game using the Oculus Quest VR headset and Oculus touch controllers. The planning, design, implementation and evaluation process that was carried out when creating our game was recorded in the following <a href="https://valerijaholomjova1.wixsite.com/theescape" target="_blank">blog</a>.
 
